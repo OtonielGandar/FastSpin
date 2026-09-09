@@ -1,0 +1,154 @@
+{
+  "startedAt": "2026-09-09T20:20:32.585Z",
+  "page": {
+    "href": "https://m5m5.bet/game/action/6816",
+    "origin": "https://m5m5.bet",
+    "pathname": "/game/action/6816",
+    "title": ""
+  },
+  "requests": [],
+  "iframes": [
+    {
+      "time": "2026-09-09T20:20:32.900Z",
+      "source": "iframe-added",
+      "src": "about:blank",
+      "title": "",
+      "name": "",
+      "id": "",
+      "width": "",
+      "height": ""
+    },
+    {
+      "time": "2026-09-09T20:20:33.662Z",
+      "source": "iframe-added",
+      "src": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "title": "",
+      "name": "",
+      "id": "game-active-iframe",
+      "width": "100%",
+      "height": "100%"
+    }
+  ],
+  "scripts": [
+    {
+      "time": "2026-09-09T20:20:32.586Z",
+      "src": "https://challenges.cloudflare.com/turnstile/v0/api.js"
+    },
+    {
+      "time": "2026-09-09T20:20:32.587Z",
+      "src": "https://o.alicdn.com/captcha-frontend/aliyunCaptcha/AliyunCaptcha.js"
+    },
+    {
+      "time": "2026-09-09T20:20:32.587Z",
+      "src": "https://telegram.org/js/telegram-web-app.js?58"
+    },
+    {
+      "time": "2026-09-09T20:20:32.587Z",
+      "src": "https://m5m5.bet/assets/index-r2-C5BYrk9B.js"
+    },
+    {
+      "time": "2026-09-09T20:20:32.588Z",
+      "src": "https://m5m5.bet/assets/polyfills-legacy-r2-LWnyfslq.js"
+    },
+    {
+      "time": "2026-09-09T20:20:46.455Z",
+      "src": "https://m5m5.bet/assets/combined-r2-Bx0nAwnK.js?v=20260901055250"
+    },
+    {
+      "time": "2026-09-09T20:20:46.455Z",
+      "src": "https://m5m5.bet/versionControl/webPushSdk.produce.min.2.1.6.js?v=20260901055250"
+    },
+    {
+      "time": "2026-09-09T20:20:46.455Z",
+      "src": "https://m5m5.bet/versionControl/progress.js?v=20260901055250"
+    }
+  ],
+  "links": [],
+  "gameHints": [
+    {
+      "time": "2026-09-09T20:20:33.663Z",
+      "source": "iframe-added",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "gameId": "8",
+      "pattern": "/(?:gameid|game_id|gdid|gid|ogid)=(\\d+)/i"
+    },
+    {
+      "time": "2026-09-09T20:20:33.663Z",
+      "source": "iframe-added",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "providerRelatedQueryKeys": [
+        "gid"
+      ]
+    },
+    {
+      "time": "2026-09-09T20:20:46.454Z",
+      "source": "iframe",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "gameId": "8",
+      "pattern": "/(?:gameid|game_id|gdid|gid|ogid)=(\\d+)/i"
+    },
+    {
+      "time": "2026-09-09T20:20:46.454Z",
+      "source": "iframe",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "providerRelatedQueryKeys": [
+        "gid"
+      ]
+    }
+  ],
+  "catalogHints": [
+    {
+      "time": "2026-09-09T20:20:33.663Z",
+      "source": "iframe-added",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "path": "/touch/fsnew/20240901P/games/candysupertumble/index.html",
+      "queryKeys": [
+        "token",
+        "server_url",
+        "game",
+        "language",
+        "mobile",
+        "menumode",
+        "pm",
+        "apihost",
+        "gid",
+        "tid",
+        "uid",
+        "x-tid",
+        "gdid",
+        "vv"
+      ]
+    },
+    {
+      "time": "2026-09-09T20:20:46.454Z",
+      "source": "iframe",
+      "url": "https://game.a-p-2-b.com/touch/fsnew/20240901P/games/candysupertumble/index.html?token=%5BREDACTED%5D&server_url=https%3A%2F%2Fapi.a-p-2-b.com&game=S-CT01&language=pt_PT&mobile=true&menumode=off&pm=3&apihost=a-p-2-b.com&gid=8&tid=%5BREDACTED%5D&uid=%5BREDACTED%5D&x-tid=5392722&gdid=6816&vv=2ecfc6a",
+      "path": "/touch/fsnew/20240901P/games/candysupertumble/index.html",
+      "queryKeys": [
+        "token",
+        "server_url",
+        "game",
+        "language",
+        "mobile",
+        "menumode",
+        "pm",
+        "apihost",
+        "gid",
+        "tid",
+        "uid",
+        "x-tid",
+        "gdid",
+        "vv"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-09-09T20:20:32.589Z",
+      "type": "inspector-started",
+      "version": "1.0.0"
+    }
+  ],
+  "errors": [],
+  "finishedAt": "2026-09-09T20:20:46.456Z"
+}
